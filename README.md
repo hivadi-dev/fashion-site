@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/15659091-26a4-4a54-8ccc-e8f68c5ede0a)
 
--[Demo Project]https://hivadi-dev.github.io/fashion-site/
+https://hivadi-dev.github.io/fashion-site/
 
 
 - Developed by hiva dargazani
